@@ -1,4 +1,4 @@
 # lofi react - livestream ract json
 
-get the sorce code
+watch the livestream
 https://bit.ly/3LQqDnL
